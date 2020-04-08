@@ -7,6 +7,7 @@ namespace PracticeSolution.Controllers
     public class CoolStuffController : Controller
     {
         // GET
+        
         public IActionResult Index()
         {
             return View();
